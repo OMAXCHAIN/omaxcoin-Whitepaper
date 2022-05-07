@@ -1,3 +1,3 @@
 # omaxcoin-Whitepaper
 
-https://omaxcoin.com/Whitepaper/OMAX_Whitepaper.pdf
+Click [here](https://omaxcoin.com/Whitepaper/OMAX_Whitepaper.pdf) to download the Omax Coin Whitepaper
